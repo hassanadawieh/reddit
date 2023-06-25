@@ -1,3 +1,13 @@
+:root {
+  --Radius : 30px;
+  --a : #ff4500;
+  --b : #DAE0E6;
+  --c : #FFFFFF;
+  --d : #EDEFF1;
+}
+
+
+
 .App {
   text-align: center;
 }
